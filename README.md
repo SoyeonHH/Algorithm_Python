@@ -2,28 +2,31 @@
 파이썬 알고리즘 공부기록
 
 
+## 1. Books
 
-## 참고한 교재
-
-##### 1. Python 계단밟기(Wikidocs)
+* **Python 계단밟기(Wikidocs)**
 
 Basic of Python Code
 
-📂 **[Helloworld](https://github.com/SoyeonHH/Algorithm_Python/tree/main/Helloworld)**
+📂 [Helloworld](https://github.com/SoyeonHH/Algorithm_Python/tree/main/Helloworld)
 
 
-##### 2. 파이썬 알고리즘 인터뷰
+* **파이썬 알고리즘 인터뷰**
 
 LeetCode 기출문제 분석을 통한 코딩테스트 준비
 
-* * *
-## [LeetCode](https://leetcode.com/sodus1102/)
+
+
+
+## 2. [LeetCode](https://leetcode.com/sodus1102/)
 
 업로드 예정
 
 
-* * *
-## [baekjoon](https://www.acmicpc.net/user/sodus1102)
+
+
+
+## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
 
 파이썬으로 백준 알고리즘 문제 풀이
 
