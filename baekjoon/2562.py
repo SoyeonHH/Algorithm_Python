@@ -1,15 +1,9 @@
 nums=[]
-num=0
 while True:
     try:
-        num+=1
-        a = int(input())
-        list = []
-        list.append(a)
-        list.append(num)
-        nums.append(list)
+        num = int(input())
+        nums.append(num)
     except:
         break
-nums.sort()
-print(nums[-1][0])
-print(nums[-1][1])
+print(max(nums))
+print(nums.index(max(nums))+1)
