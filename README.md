@@ -17,7 +17,7 @@ Basic of Python Code
 
 ✏️ **6장 문자열 조작**
 
-  * 유효한 팰린드롬
+  * [LeetCode 125](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/125.py) :: 유효한 팰린드롬
   * 문자열 뒤집기
 
 
