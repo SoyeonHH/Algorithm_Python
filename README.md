@@ -46,6 +46,6 @@ Basic of Python Code
 
 🏆 **Challenge**
 
- |Title|Solutions
+Steps|Title|Solutions
  ---|---|---
  1|May LeetCoding Challenge 2021|[Super Palindromes](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/906.py)
