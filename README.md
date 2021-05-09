@@ -37,3 +37,15 @@ Basic of Python Code
 5|1차원 배열|배열을 사용해 봅시다.|[최소, 최대](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/10818.py) [최댓값](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/2562.py) [숫자의 개수](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/2577.py) [나머지](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/3052.py) [평균](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/1546.py) [OX퀴즈](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/8958.py) [평균은 넘겠지](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/4344.py)
 6|함수|함수를 정의하면 코드가 깔끔해지고 관리하기 쉬워집니다.|[정수 N개의 합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/15596.py) [셀프 넘버](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/4673.py) [한수](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/1065.py)
 7|문자열|문자열을 다루는 문제들을 해결해 봅시다.|[아스키코드](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/11654.py) [숫자의 합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/11720.py) [알파벳 찾기](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/10809.py) [문자열 반복](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/2675.py) [단어 공부](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/1157.py) [단어의 개수](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/1152.py) [상수](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/2908.py) [다이얼](https://github.com/SoyeonHH/Algorithm_Python/blob/main/baekjoon/5622.py)
+
+
+
+## 4. [LeetCode](https://leetcode.com/sodus1102/)
+
+리트코드 문제 풀이 챌린지
+
+🏆 **Challenge**
+
+ |Title|Solutions
+ ---|---|---
+ 1|May LeetCoding Challenge 2021|[Super Palindromes(https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/906.py)
