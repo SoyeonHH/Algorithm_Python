@@ -21,6 +21,9 @@ Basic of Python Code
   * [문자열 뒤집기](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/344.py) | s.reverse()
   * [로그 파일 재정렬](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/937.py) | 람다 표현식 정렬
   * [가장 흔한 단어](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/819.py) | 입력값 전처리, 리스트 컴프리헨션, collection.Counter()
+  * [그룹 애너그램](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/49.py) | 정렬하여 딕셔너리에 추가, sorted()
+
+✔️ 파이썬의 정렬 알고리즘 : **팀소트(Timosrt)** (삽입 정렬과 병합 정렬을 휴리스틱하게 조합하여 사용하는 정렬 알고리즘으로, 가장 빠른 시간 복잡도를 보인다.
 
 
 
