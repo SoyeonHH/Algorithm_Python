@@ -27,6 +27,10 @@ Basic of Python Code
 
  * [가장 긴 팰린드롬 부분 문자열](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/5.py) | 슬라이딩 윈도우, 투 포인터 확장
 
+✏️ **7장 배열**
+
+ * [두 수의 합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/1.py) | 시간복잡도
+
 
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
