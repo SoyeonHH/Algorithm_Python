@@ -25,6 +25,8 @@ Basic of Python Code
 
 ✔️ 파이썬의 정렬 알고리즘 : **팀소트(Timosrt)** (삽입 정렬과 병합 정렬을 휴리스틱하게 조합하여 사용하는 정렬 알고리즘으로, 가장 빠른 시간 복잡도를 보인다.
 
+ * [가장 긴 팰린드롬 부분 문자열](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/5.py) | 슬라이딩 윈도우, 투 포인터 확장
+
 
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
