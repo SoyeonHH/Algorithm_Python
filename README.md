@@ -30,6 +30,7 @@ Basic of Python Code
 
  * [두 수의 합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/1.py) | 시간복잡도
  * [빗물 트래핑](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/42.py) | 투 포인터 이동, 난이도 상 ⭐⭐⭐
+ * [세 수의 합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/15.py) | 투 포인터
 
 
 
