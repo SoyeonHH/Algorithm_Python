@@ -34,7 +34,7 @@ Basic of Python Code
  * [배열 파티션1](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/561.py) | Pythonic Way
  * [자신을 제외한 배열의 곱](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/238.py) | 아이디어 문제
  * [주식을 사고팔기 가장 좋은 시점](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/121.py) | 최대, 최소 갱신
- * [팰린드롬 연결 리스트](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/125.py) | Deque, Linked List, 런너(Runner)
+ * [팰린드롬 연결 리스트](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/234.py) | Deque, Linked List, 런너(Runner)
 
 
 
