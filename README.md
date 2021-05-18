@@ -38,7 +38,7 @@ Basic of Python Code
 ✏️ **8장 연결 리스트**
 
  * [팰린드롬 연결 리스트](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/234.py) | 데크(Deque), 런너(Runner), 다중 할당
- * [두 정렬 리스트의 병합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/21.py) | 재귀 구조, 변수 스왑
+ * [두 정렬 리스트의 병합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/21.py) | 변수 스왑
 
 
 
