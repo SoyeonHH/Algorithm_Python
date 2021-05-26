@@ -41,7 +41,8 @@ Basic of Python Code
  * [두 정렬 리스트의 병합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/21.py) | 변수 스왑
  * [역순 연결 리스트](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/206.py) | 반복이 재귀보다 공간복잡도, 실행 속도 면에서 우수하다.
  * [두 수의 덧셈](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/2.py) | 전가산기(Full Adder), divmod, functools.reduce()
- * [페어의 노드 스왑](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/24.py) | 스왑(swap), 반복구조와 
+ * [페어의 노드 스왑](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/24.py) | 스왑(swap), 반복구조와 재귀구조
+ * [홀짝 연결 리스트](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/328.py) | 문제 이해의 중요성
 
 
 
