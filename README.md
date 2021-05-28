@@ -45,6 +45,10 @@ Basic of Python Code
  * [홀짝 연결 리스트](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/328.py) | 문제 이해의 중요성
  * [역순 연결 리스트2](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/92.py) | 반복 구조로 노드 뒤집기
 
+✏️ **9장 스택, 큐**
+
+ * [유효한 괄호](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/20.py) |스택 일치 여부 판별
+
 
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
