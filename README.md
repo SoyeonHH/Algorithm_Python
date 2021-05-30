@@ -48,6 +48,7 @@ Basic of Python Code
 ✏️ **9장 스택, 큐**
 
  * [유효한 괄호](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/20.py) |스택 일치 여부 판별
+ * [중복 문자 제거](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/316.py) | 재귀를 이용한 분리, 스택을 이용한 문자 제거
 
 
 
