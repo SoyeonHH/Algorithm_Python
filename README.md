@@ -50,6 +50,9 @@ Basic of Python Code
  * [유효한 괄호](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/20.py) |스택 일치 여부 판별
  * [중복 문자 제거](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/316.py) | 재귀를 이용한 분리, 스택을 이용한 문자 제거
 
+> 스택(Stack)은 LIFO(Last-In-First-Out)(후입선출), 큐(Queue)는 FIFO(FIrst-In-First-Out)(선입선출)로 처리된다.
+> 파이썬의 리스트는 스택과 큐의 모든 연산을 지원하지만, 동적 배열로 구현되어 있어 큐의 연산을 수행하기에는 데크(Deque)라는 별도의 자료형을 사용해야 더 좋은 성능을 낼 수 있다.
+
 
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
