@@ -51,6 +51,7 @@ Basic of Python Code
  * [중복 문자 제거](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/316.py) | 재귀를 이용한 분리, 스택을 이용한 문자 제거
  * [일일 온도](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/739.py) | 시각화, 스택 값과 현재 값 비교
  * [큐를 이용한 스택 구현](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/225.py) | push(x), pop(), top(), empty()
+ * [스택을 이용한 큐 구현](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/232.py) | push(x), pop(), peek(), empty()
 
 
 > 스택(Stack)은 LIFO(Last-In-First-Out)(후입선출), 큐(Queue)는 FIFO(FIrst-In-First-Out)(선입선출)로 처리된다.
