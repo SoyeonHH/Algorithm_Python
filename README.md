@@ -52,7 +52,7 @@ Basic of Python Code
  * [일일 온도](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/739.py) | 시각화, 스택 값과 현재 값 비교
  * [큐를 이용한 스택 구현](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/225.py) | push(x), pop(), top(), empty()
  * [스택을 이용한 큐 구현](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/232.py) | push(x), pop(), peek(), empty()
- * [원형 큐 디자인](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/622.py) | enQueue, deQueue, Front, Rear, isEmpty, isFull
+ * [원형 큐 디자인](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/622.py) | enQueue(), deQueue(), Front(), Rear(), isEmpty(), isFull()
 
 
 > 스택(Stack)은 LIFO(Last-In-First-Out)(후입선출), 큐(Queue)는 FIFO(FIrst-In-First-Out)(선입선출)로 처리된다.
