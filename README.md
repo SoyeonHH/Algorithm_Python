@@ -61,6 +61,8 @@ Basic of Python Code
 
 ✏️ **10장 데크, 우선순위 큐**
 
+ * [원형 데크 디자인](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/641.py)
+
 > **데크(Deque)** 는 더블 엔디드 큐(Double-Ended Queue)의 줄임말로, 양쪽 끝을 모두 추출할 수 있는, 큐를 일반화한 형태의 추상 자료형(ADT)이다.
 > 
 > 구현은 배열이나 연결 리스트 모두 가능하지만, **이중 연결 리스트(Doubly Linked List)** 로 구현하는 편이 가장 잘 어울린다.
