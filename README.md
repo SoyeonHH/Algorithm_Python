@@ -66,6 +66,8 @@ Basic of Python Code
 > **데크(Deque)** 는 더블 엔디드 큐(Double-Ended Queue)의 줄임말로, 양쪽 끝을 모두 추출할 수 있는, 큐를 일반화한 형태의 추상 자료형(ADT)이다.
 > 
 > 구현은 배열이나 연결 리스트 모두 가능하지만, **이중 연결 리스트(Doubly Linked List)** 로 구현하는 편이 가장 잘 어울린다.
+> 
+> **우선순위 큐** 는 큐 또는 스택과 같은 추상 자료형과 유사하지만 추가로 각 요소의 '우선순위'와 연관되어 있다. **힙(Heap)**  자료구조와 관련이 깊다.
 
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
