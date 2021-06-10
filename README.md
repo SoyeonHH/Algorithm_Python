@@ -62,6 +62,7 @@ Basic of Python Code
 ✏️ **10장 데크, 우선순위 큐**
 
  * [원형 데크 디자인](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/641.py)
+ * [k개 졍렬 리스트 병합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/23.py) | PriorityQueue vs heapq
 
 > **데크(Deque)** 는 더블 엔디드 큐(Double-Ended Queue)의 줄임말로, 양쪽 끝을 모두 추출할 수 있는, 큐를 일반화한 형태의 추상 자료형(ADT)이다.
 > 
