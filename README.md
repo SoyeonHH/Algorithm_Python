@@ -75,7 +75,7 @@ Basic of Python Code
 
 > **해시 테이블** 또는 **해시 맵** 은 키를 값에 매핑할 수 있는 구조인, 연관 배열 추상 자료형(ADT)을 구현하는 자료구조다. **해시 함수** 란 임의 크기 데이터를 고정 크기 값으로 매핑하는 데 사용할 수 있는 함수를 말한다.
 
-  ✅ 성능 좋은 해시 함수의 특징
+  ✅ **성능 좋은 해시 함수의 특징**
   
     * 해시 함수 값 충돌의 최소화 -> **비둘기집 원리**
     * 쉽고 빠른 연산
@@ -107,6 +107,11 @@ Basic of Python Code
     
     // Java
     hashCode = 31 * hashCode + (e == null ? 0 : e.hashCode());
+    
+ ✅ **충돌(Collusion) 발생 시**
+ 
+  * 개별 체이닝(Separate Chaining) : 충돌 발생 시 연결 리스트로 연결
+  * 오픈 어드레싱(Open Addressing) : 충돌 발생 시 탐사(Probing)를 통해 빈 공간을 찾아나서는 방식 *(파이썬에서 사용되는 방식)
 
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
