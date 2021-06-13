@@ -73,6 +73,8 @@ Basic of Python Code
 
 ✏️ **11장 해시 테이블**
 
+ * [해시맵 디자인](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/706.py) | put(key, value), get(key), remove(key)
+
 > **해시 테이블** 또는 **해시 맵** 은 키를 값에 매핑할 수 있는 구조인, 연관 배열 추상 자료형(ADT)을 구현하는 자료구조다. **해시 함수** 란 임의 크기 데이터를 고정 크기 값으로 매핑하는 데 사용할 수 있는 함수를 말한다.
 
   ✅ **성능 좋은 해시 함수의 특징**
