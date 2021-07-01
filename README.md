@@ -119,6 +119,132 @@ Basic of Python Code
   * 오픈 어드레싱(Open Addressing) : 충돌 발생 시 탐사(Probing)를 통해 빈 공간을 찾아나서는 방식 *(파이썬에서 사용되는 방식)
 
 
+✏️ **12장 그래프**
+
+> **그래프** 란, 객체의 일부 쌍(pair)들이 '연관되어' 있는 객체 집합 구조를 말한다.
+
+> **오일러 경로** 
+> 
+> 모든 edge를 한 번씩 방문하는 유한 그래프
+> 
+> **오일러의 정리**에 의하면, 모든 vertex가 짝수 개의 degree를 갖는다면, 모든 다리를 한 번씩 건너서 도달하는 것이 성립 가능하다.
+
+> **해밀턴 경로(Hamiltonian Path)**
+> 
+> 각 vertex를 한 번씩 방문하는 무향 또는 유향 그래프
+> 
+> 대표적인 **NP-complete 문제**로, 최적 알고리즘이 없다.
+
+
+> **외판원 문제(TSP)**
+> 
+> 해밀턴 순환의 최단거리를 찾는 문제
+> 
+> NP-난해 문제이다.
+
+> **NP문제**
+> 
+> 비결정론적 튜닝 기계(NTM)로 다항 시간 안에 풀 수 있는 판정 문제의 집합
+> 
+> "P 집합은 NP 집합의 부분집합이다. P=NP 인지는 아직 알려지지 않았다."
+> 
+> NP 문제이면서 NP-난해 문제 : **NP-완전 문제**
+
+**그래프 순회(그래프 탐색)** : 그래프의 각 vertex를 방문하는 과정으로, 깊이 우선 탐색(DFS)과 너비 우선 탐색(BFS) 방법이 있다.
+
+**DFS(깊이 우선 탐색)**
+
+    // 재귀
+    
+    // Sudo Code
+    DFS(G, V)
+        label v as discoverd
+        for all directed edges from v to w that are in G.adjacentEdges(v) do
+            if vertex w is not labeled as discoverd then
+                recursively call DFS(G, w)
+                
+    // Python
+    def recursive_dfs(v, discovered=[]):
+        discovered.append(v)
+        for w in gragh[v]:
+            if w not in discovered:
+                discovered = recursive_dfs(w, discovered)
+        return discovered
+        
+    
+    // 스택
+    
+    // Sudo Code
+    DFS-iterative(G, v)
+        let S be a stack
+        S.push(v)
+        while S is not empty do
+            v = S.pop()
+            if v is not labeled as discovered then
+                label v as discovered
+                for all edges from v to w in G.adjacentEdges(v) do
+                    S.push(w)
+                    
+     // Python
+     def iterative_dfs(start_v):
+         discovered = []
+         stack = [start_v]
+         while stack:
+             v = stack.pop()
+             if v not in discovered:
+                 discovered.append(v)
+                 for w in graph[v]:
+                     stack.append(w)
+         return discovered
+
+
+**BFS(너비 우선 탐색)**
+
+    //큐
+    
+    // Sudo Code
+    BFS(G, start_v)
+        let Q be a queue
+        label start_v as discovered
+        Q.enqueue(start_v)
+        while Q is not empty do
+            v := Q.dequeue()
+            if v is the goal then
+                return v
+            for all edges from v to w in G.adjacentEdges(v) do
+                if w is not labeled as discovered then
+                label w as discovered
+                w.parent := v
+                Q.enqueue(w)
+                
+     // Python
+     def iterative_bfs(start_v):
+         discovered = [start_v]
+         queue = [start_v]
+         while queue:
+             v = queue.pop(0)
+             for w in graph[v]:
+                 discovered.append(w)
+                 queue.append(w)
+         return discovered
+
+
+> BFS는 재귀로 동작하지 않는다.
+
+> **백트래킹(Backtracking)**
+> 
+> 해결책에 대한 후보를 구축해 나아가다 가능성이 없다고 판단되는 즉시 후보를 포기(backtrack)해 정답을 찾아가는 범용적인 알고리즘으로, 제약 충족 문제에 특히 유용하다.
+> 
+> 트리의 가지치기(Pruning)에 해당한다.
+
+> **제약 충족 문제(CSP)**
+> 
+> 수많은 제약 조건을 충족하는 상태를 찾아내는 수학 문제
+
+
+
+
+
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
 
 파이썬으로 백준 알고리즘 문제 풀이
