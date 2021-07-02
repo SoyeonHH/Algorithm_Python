@@ -122,6 +122,7 @@ Basic of Python Code
 ✏️ **12장 그래프**
 
  * [섬의 개수](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/200.py) | dfs 재귀 호출, 파이썬 중첩함수
+ * [전화 번호 문자 조합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/17.py) | dfs 재귀 호출, dictionary 활용
 
 > **그래프** 란, 객체의 일부 쌍(pair)들이 '연관되어' 있는 객체 집합 구조를 말한다.
 
