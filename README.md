@@ -125,6 +125,7 @@ Basic of Python Code
  * [전화 번호 문자 조합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/17.py) | dfs 재귀 호출, dictionary 활용
  * [순열](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/46.py) | dfs, 객체 복사[:], itertools.permuatations()
  * [조합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/77.py) | dfs, itertools.combinations()
+ * [조합의 합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/39.py) | dfs
 
 > **그래프** 란, 객체의 일부 쌍(pair)들이 '연관되어' 있는 객체 집합 구조를 말한다.
 
