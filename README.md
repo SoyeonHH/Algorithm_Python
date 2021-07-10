@@ -128,6 +128,7 @@ Basic of Python Code
  * [조합의 합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/39.py) | dfs
  * [부분집합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/78.py) | 트리를 구성하여 dfs
  * [일정 재구성](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/332.py) | 재귀 vs 반복
+ * [코스 스케줄](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/207.py) | DFS로 순환 구조 판별, 가지치기, defaultdict 순회 문제
 
 > **그래프** 란, 객체의 일부 쌍(pair)들이 '연관되어' 있는 객체 집합 구조를 말한다.
 
