@@ -260,6 +260,31 @@ Basic of Python Code
 > 어떤 현상을 설명할 때 필요 이상의 가정과 개념들은 면도날로 베어낼 필요가 있다는 권고로 쓰이는 용어이다. 사고의 절약을 요구하는 이 원리는 과학 분야에서 널리 응용되는 일반적인 지침이다.
 
 
+    // Dijkstra Algorithm Sudo Code
+    
+    function Dijkstra(Graph, source):
+        dist[source] <- 0
+        
+        create vertex priority queue Q
+        
+        for each vertex v in Graph:
+            if v != source
+                dist[v] <- INFINITY
+                prev[v] <- UNDEFINED
+                
+            Q.add_with_priority(v, dist[v])
+            
+        while Q is not empty:
+            u <- Q.extract_min()
+            for each neighbor v of u:
+                alt <- dist[u] + length(u, v)
+                if alt < dist[v]
+                    dist[v] <- alt
+                    prev[v] <- u
+                    Q.decrease_priority(v, alt)
+                    
+        return dist, prev
+
 
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
