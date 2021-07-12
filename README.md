@@ -254,6 +254,7 @@ Basic of Python Code
 ✏️ **13장 최단 경로 문제**
 
  * [네트워크 딜레이 타임](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/743.py) | 다익스트라 알고리즘, 우선순위 큐
+ * [K 경유지 내 가장 저렴한 항공권](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/787.py) | 다익스트라 알고리즘, 우선순위 큐, 경유지 제한
 
 > **최단 경로 문제**는 각 간선의 가중치 합이 최소가 되는 두 정점(또는 노드) 사이의 경로를 말한다.
 
