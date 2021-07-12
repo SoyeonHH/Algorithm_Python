@@ -317,3 +317,4 @@ Basic of Python Code
 Steps|Title|Solutions
  ---|---|---
  1|May LeetCoding Challenge 2021|[Super Palindromes](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/906.py) / [Valid Number](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/65.py) / [Find and Replace Pattern](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/890.py)
+ 2|July LeetCoding Challenge 2021|[Isomorphic String](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/205.py)
