@@ -291,6 +291,8 @@ Basic of Python Code
 
 ✏️ **14장 트리**
 
+ * [이진 트리의 최대 깊이](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/104.py) | 반복 구조로 BFS 풀이
+
 > **트리(Tree)**는 계층형 트리 구조를 시뮬레이션 하는 추상 자료형(ADT)으로, 루트 값과 부모-자식 관계의 서브트리로 구성되며, 서로 연결된 노드의 집합이다.
 
 > **서브트리(Subtree)**
