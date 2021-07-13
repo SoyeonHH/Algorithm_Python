@@ -305,6 +305,8 @@ Basic of Python Code
 > 
 > 3. 트리는 하나의 부모 노드를 갖고, 루트 또한 하나여야 한다.
 
+<img src="https://github.com/SoyeonHH/Algorithm_Python/blob/main/Binary%20Trees.jpg" width="70%" height="70%">
+
 > **이진 트리(Binary Tree)** : 모든 노드의 차수가 2 이하일 때 (다진 트리에 비해 훨씬 간결하고, 여러 알고리즘 구현을 간단하게 처리할 수 있다.)
 > 
 > **정 이진 트리(Full Binary Tree)** : 모든 노드가 0개 또는 2개의 자식 노드를 갖는다.
