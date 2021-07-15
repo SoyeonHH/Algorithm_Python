@@ -293,6 +293,7 @@ Basic of Python Code
 
  * [이진 트리의 최대 깊이](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/104.py) | 반복 구조로 BFS 풀이
  * [이진 트리의 직경](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/543.py) | 상태값 누적 트리 DFS, 중첩 함수에서 클래스 변수 사용
+ * [가장 긴 동일 값의 경로](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/687.py) | 상태값 거리 계산 DFS
 
 > **트리(Tree)**는 계층형 트리 구조를 시뮬레이션 하는 추상 자료형(ADT)으로, 루트 값과 부모-자식 관계의 서브트리로 구성되며, 서로 연결된 노드의 집합이다.
 
