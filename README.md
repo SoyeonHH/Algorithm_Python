@@ -297,6 +297,7 @@ Basic of Python Code
  * [이진 트리 반전](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/226.py) | 재귀 방식, 반복 구조 BFS, 반복 구조 DFS, 반복구조 DFS 후위 순회
  * [이진 트리 병합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/617.py) | 재귀 탐색, 후위 순회
  * [이진 트리 직렬화&역직렬화](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/297.py) | 피클링(pickling), BFS 구현
+ * [균형 이진 트리](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/110.py) | 높이 균형(Height-Balanced)의 중요성, 재귀 호출
 
 > **트리(Tree)**는 계층형 트리 구조를 시뮬레이션 하는 추상 자료형(ADT)으로, 루트 값과 부모-자식 관계의 서브트리로 구성되며, 서로 연결된 노드의 집합이다.
 
