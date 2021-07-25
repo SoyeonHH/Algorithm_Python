@@ -324,6 +324,14 @@ Basic of Python Code
 > 
 > **포화 이진 트리(Perfect Binary Tree)** : 모든 노드가 2개의 자식 노드를 갖고 있으며, 모든 리프 노드가 동일한 깊이 또는 레벨을 갖는다.
 
+> **이진 탐색 트리(BST)**
+> 
+> 왼쪽과 오른쪽의 값들이 각각 값의 크기에 따라 정렬되어 있는 트리로, 시간 복잡도가 **O(log n)** 이다.
+
+> **자가 균형 이진 탐색 트리(Self-Balancing Binary Search Tree)**
+> 
+> 삽입, 삭제 시 자동으로 높이를 작게 유지하는 노드 기반의 이진 탐색 트리로, AVL트리, 레드-블랙 트리 등이 있다.
+
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
 
