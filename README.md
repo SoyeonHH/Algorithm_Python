@@ -303,6 +303,7 @@ Basic of Python Code
  * [BST To Greater Sum Tree](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/1038.py) | 이진 탐색 트리(BST) 중위 순회(In-Order)
  * [Range Sum of BST](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/938.py) | DFS 가지치기, 반복구조 DFS
  * [이진 탐색 트리 노드 간 최소 거리](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/783.py) | 중위 순회(In-Order)
+ * [전위, 중위 순회 결과로 이진 트리 구축](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/105.py) | 중위 순회의 분할 정복(Divide and Conquer)
 
 > **트리(Tree)**는 계층형 트리 구조를 시뮬레이션 하는 추상 자료형(ADT)으로, 루트 값과 부모-자식 관계의 서브트리로 구성되며, 서로 연결된 노드의 집합이다.
 
