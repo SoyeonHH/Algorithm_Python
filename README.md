@@ -336,6 +336,37 @@ Basic of Python Code
 > 
 > 삽입, 삭제 시 자동으로 높이를 작게 유지하는 노드 기반의 이진 탐색 트리로, AVL트리, 레드-블랙 트리 등이 있다.
 
+**트리 순회**
+
+    # 전위 순회
+    def preorder(node):
+        if node is None:
+            return
+        print(node.val)
+        preorder(node.left)
+        preorder(node.right)
+
+
+    # 중위 순회
+    def inorder(node):
+        if node is None:
+            return
+        inorder(node.left)
+        print(node.val)
+        inorder(node.right)
+
+
+    # 후위 순회
+    def postorder(node):
+        if node is None:
+            return
+        postorder(node.left)
+        postorder(node.right)
+        print(node.val)
+
+
+
+
 
 ## 3. [baekjoon](https://www.acmicpc.net/user/sodus1102)
 
