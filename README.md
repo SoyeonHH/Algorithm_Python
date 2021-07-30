@@ -368,6 +368,8 @@ Basic of Python Code
 
 ✏️ **15장 힙**
 
+ * [이진 힙(Binary Heap) 구현](https://github.com/SoyeonHH/Algorithm_Python/blob/main/Algorithm/BinaryHeap.py)
+
 > **힙(Heap)** 은 상/하 관계를 보장하며, 특히 최소 힙에서는 부모가 항상 자식보다 작다. 반면 BST는 좌/우 관계를 보장한다.
 > 
 > BST는 탐색과 삽입 모두 O(log n)에 가능하며, 모든 값이 정렬되어야 할 때 사용한다. 
