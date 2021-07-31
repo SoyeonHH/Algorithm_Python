@@ -380,7 +380,7 @@ Basic of Python Code
 
 ✏️ **16장 트라이**
 
-
+ * [트라이 구현](https://github.com/SoyeonHH/Algorithm_Python/blob/main/Algorithm/Trie.py) | TrieNode(), insert(), search(), startsWith()
 
 > **트라이(Trie)** 는 검색 트리의 일종으로 일반적으로 키가 문자열인, 동적 배열 또는 연관 배열을 저장하는 데 사용되는 정렬된 트리 자료구조다.
 > 
