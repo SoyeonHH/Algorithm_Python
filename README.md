@@ -394,6 +394,8 @@ Basic of Python Code
 
 ✏️ **17장 정렬**
 
+ * [리스트 정렬](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/148.py) | 병합 정렬, Runner 기법, sort()
+
 > **병합 정렬(Merge Sort)** 
 > 
 > 존 폰 노이만이 1945년에 고안한 알고리즘으로, divide and conquer를 이용하여 O(nlogn)의 시간복잡도를 만족하는 안정 정렬 알고리즘이다.
