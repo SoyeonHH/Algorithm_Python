@@ -395,6 +395,7 @@ Basic of Python Code
 ✏️ **17장 정렬**
 
  * [리스트 정렬](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/148.py) | 병합 정렬, Runner 기법, sort()
+ * [구간 병합](https://github.com/SoyeonHH/Algorithm_Python/blob/main/LeetCode/56.py) | 람다 정렬 후 병합, a += b,(콤마 연산자)
 
 > **병합 정렬(Merge Sort)** 
 > 
