@@ -20,7 +20,7 @@ class Solution:
 
         return l1 or l2
 
-    def sortList(self, head: ListNode) -> ListNode:
+    def sortList_mergeSort(self, head: ListNode) -> ListNode:
         if not (head and head.next):
             return head
 
@@ -31,7 +31,27 @@ class Solution:
         half.next = None  # 연결 리스트 끊기
 
         # Divide Reference
-        l1 = self.sortList(head)
-        l2 = self.sortList(slow)
+        l1 = self.sortList_mergeSort(head)
+        l2 = self.sortList_mergeSort(slow)
 
         return self.mergeTwoLists(l1, l2)
+
+
+    def sortList_Pythonic(self, head: ListNode) -> ListNode:
+
+        # Linked List -> Python List
+        p = head
+        lst: list = []
+        while p:
+            lst.append(p.val)
+            p = p.next
+
+        # sort
+        lst.sort()
+
+        # Python List -> Linked List
+        p = head
+        for i in range(len(lst)):
+            p.val = lst[i]
+            p = p.next
+        return head
